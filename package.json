@@ -1,6 +1,6 @@
 {
   "name": "vue-pinch",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Vue 轻量级捏合手势指令",
   "main": "./lib/vue-pinch.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NalvyBoo/vue-pinch.git"
+    "url": "git+https://github.com/ningbonb/vue-pinch.git"
   },
   "keywords": [
     "vue",
@@ -18,7 +18,7 @@
   "author": "ningbo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NalvyBoo/vue-pinch/issues"
+    "url": "https://github.com/ningbonb/vue-pinch/issues"
   },
-  "homepage": "https://github.com/NalvyBoo/vue-pinch#readme"
+  "homepage": "https://github.com/ningbonb/vue-pinch#readme"
 }
